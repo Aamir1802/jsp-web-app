@@ -5,7 +5,7 @@
 
 <a href="www.greenhayat.wordpress.com">Click Here To See Aamir Tech And Details</a>
   
-  <h2 style="color: #633B2C > Call Us : +91-6390500956 (whatsapp)</h2>
+  <h2 style="color: #633B2C;"> Call Us : +91-6390500956 (whatsapp)</h2>
   
   <h3> Address : JAUNPUR, INDIA </h3>
 
