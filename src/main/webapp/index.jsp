@@ -1,7 +1,7 @@
 <html>
 <body>
 </br>
-<div style="background-color: #8399A8; color: white; padding: 40px; text-align: center;">
+<div style="background-color: #A2BED0; color: white; padding: 40px; text-align: center;">
 <h1><font color='#812878'> Welcome to AAMIR-CSE-IT - Softwares <font></h1>
 
 <a href="www.greenhayat.wordpress.com">Click Here To See Aamir Tech And Details</a>
