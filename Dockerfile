@@ -1,5 +1,4 @@
-FROM openjdk:11
-COPY target/app.jar  /usr/app/app.jar
-WORKDIR /usr/app/
+FROM tomcat:8.0.20-jre8
+MAINTAINER Aamir <aamir.ansari641993@gmail.com>
 EXPOSE 8080
-ENTRYPOINT [ "java", "-jar", "app.jar" ]
+COPY target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app.war
